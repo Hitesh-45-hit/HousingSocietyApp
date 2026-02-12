@@ -1,0 +1,11 @@
+D:\HousingSocietyApp\HousingSocietyApi\HousingSocietyApi.Core\bin\Debug\net8.0\HousingSocietyApi.Core.deps.json
+D:\HousingSocietyApp\HousingSocietyApi\HousingSocietyApi.Core\bin\Debug\net8.0\HousingSocietyApi.Core.dll
+D:\HousingSocietyApp\HousingSocietyApi\HousingSocietyApi.Core\bin\Debug\net8.0\HousingSocietyApi.Core.pdb
+D:\HousingSocietyApp\HousingSocietyApi\HousingSocietyApi.Core\obj\Debug\net8.0\HousingSocietyApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\HousingSocietyApp\HousingSocietyApi\HousingSocietyApi.Core\obj\Debug\net8.0\HousingSocietyApi.Core.AssemblyInfoInputs.cache
+D:\HousingSocietyApp\HousingSocietyApi\HousingSocietyApi.Core\obj\Debug\net8.0\HousingSocietyApi.Core.AssemblyInfo.cs
+D:\HousingSocietyApp\HousingSocietyApi\HousingSocietyApi.Core\obj\Debug\net8.0\HousingSocietyApi.Core.csproj.CoreCompileInputs.cache
+D:\HousingSocietyApp\HousingSocietyApi\HousingSocietyApi.Core\obj\Debug\net8.0\HousingSocietyApi.Core.dll
+D:\HousingSocietyApp\HousingSocietyApi\HousingSocietyApi.Core\obj\Debug\net8.0\refint\HousingSocietyApi.Core.dll
+D:\HousingSocietyApp\HousingSocietyApi\HousingSocietyApi.Core\obj\Debug\net8.0\HousingSocietyApi.Core.pdb
+D:\HousingSocietyApp\HousingSocietyApi\HousingSocietyApi.Core\obj\Debug\net8.0\ref\HousingSocietyApi.Core.dll

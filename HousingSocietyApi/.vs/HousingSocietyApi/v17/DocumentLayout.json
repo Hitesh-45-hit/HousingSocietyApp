@@ -1,0 +1,243 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HousingSocietyApp\\HousingSocietyApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA21E1C-833C-4D50-B530-C01FB306D252}|HousingSocietyApi\\HousingSocietyApi.csproj|d:\\housingsocietyapp\\housingsocietyapi\\housingsocietyapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2CA21E1C-833C-4D50-B530-C01FB306D252}|HousingSocietyApi\\HousingSocietyApi.csproj|solutionrelative:housingsocietyapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4A9473-0742-47EB-80AE-46DCAEBB0203}|HousingSocietyApi.Core\\HousingSocietyApi.Core.csproj|d:\\housingsocietyapp\\housingsocietyapi\\housingsocietyapi.core\\dto\\install_mst_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4A9473-0742-47EB-80AE-46DCAEBB0203}|HousingSocietyApi.Core\\HousingSocietyApi.Core.csproj|solutionrelative:housingsocietyapi.core\\dto\\install_mst_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4A9473-0742-47EB-80AE-46DCAEBB0203}|HousingSocietyApi.Core\\HousingSocietyApi.Core.csproj|d:\\housingsocietyapp\\housingsocietyapi\\housingsocietyapi.core\\dto\\account_grp_mst_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4A9473-0742-47EB-80AE-46DCAEBB0203}|HousingSocietyApi.Core\\HousingSocietyApi.Core.csproj|solutionrelative:housingsocietyapi.core\\dto\\account_grp_mst_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4A9473-0742-47EB-80AE-46DCAEBB0203}|HousingSocietyApi.Core\\HousingSocietyApi.Core.csproj|d:\\housingsocietyapp\\housingsocietyapi\\housingsocietyapi.core\\interface\\icommoninterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4A9473-0742-47EB-80AE-46DCAEBB0203}|HousingSocietyApi.Core\\HousingSocietyApi.Core.csproj|solutionrelative:housingsocietyapi.core\\interface\\icommoninterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA21E1C-833C-4D50-B530-C01FB306D252}|HousingSocietyApi\\HousingSocietyApi.csproj|d:\\housingsocietyapp\\housingsocietyapi\\housingsocietyapi\\controllers\\commoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CA21E1C-833C-4D50-B530-C01FB306D252}|HousingSocietyApi\\HousingSocietyApi.csproj|solutionrelative:housingsocietyapi\\controllers\\commoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE1BEA1-1FF2-42C8-8A5F-ACD368CD56FF}|HousingSocietyApi.Infrastructure\\HousingSocietyApi.Infrastructure.csproj|d:\\housingsocietyapp\\housingsocietyapi\\housingsocietyapi.infrastructure\\services\\commonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE1BEA1-1FF2-42C8-8A5F-ACD368CD56FF}|HousingSocietyApi.Infrastructure\\HousingSocietyApi.Infrastructure.csproj|solutionrelative:housingsocietyapi.infrastructure\\services\\commonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA21E1C-833C-4D50-B530-C01FB306D252}|HousingSocietyApi\\HousingSocietyApi.csproj|d:\\housingsocietyapp\\housingsocietyapi\\housingsocietyapi\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CA21E1C-833C-4D50-B530-C01FB306D252}|HousingSocietyApi\\HousingSocietyApi.csproj|solutionrelative:housingsocietyapi\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A390C128-1880-4C8D-A637-032333B436E0}|HousingSocietyApi.DataModel\\HousingSocietyApi.DataModel.csproj|d:\\housingsocietyapp\\housingsocietyapi\\housingsocietyapi.datamodel\\tables\\install_mst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A390C128-1880-4C8D-A637-032333B436E0}|HousingSocietyApi.DataModel\\HousingSocietyApi.DataModel.csproj|solutionrelative:housingsocietyapi.datamodel\\tables\\install_mst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A390C128-1880-4C8D-A637-032333B436E0}|HousingSocietyApi.DataModel\\HousingSocietyApi.DataModel.csproj|d:\\housingsocietyapp\\housingsocietyapi\\housingsocietyapi.datamodel\\tables\\account_grp_mst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A390C128-1880-4C8D-A637-032333B436E0}|HousingSocietyApi.DataModel\\HousingSocietyApi.DataModel.csproj|solutionrelative:housingsocietyapi.datamodel\\tables\\account_grp_mst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA21E1C-833C-4D50-B530-C01FB306D252}|HousingSocietyApi\\HousingSocietyApi.csproj|d:\\housingsocietyapp\\housingsocietyapi\\housingsocietyapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CA21E1C-833C-4D50-B530-C01FB306D252}|HousingSocietyApi\\HousingSocietyApi.csproj|solutionrelative:housingsocietyapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE1BEA1-1FF2-42C8-8A5F-ACD368CD56FF}|HousingSocietyApi.Infrastructure\\HousingSocietyApi.Infrastructure.csproj|d:\\housingsocietyapp\\housingsocietyapi\\housingsocietyapi.infrastructure\\db\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE1BEA1-1FF2-42C8-8A5F-ACD368CD56FF}|HousingSocietyApi.Infrastructure\\HousingSocietyApi.Infrastructure.csproj|solutionrelative:housingsocietyapi.infrastructure\\db\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A390C128-1880-4C8D-A637-032333B436E0}|HousingSocietyApi.DataModel\\HousingSocietyApi.DataModel.csproj|d:\\housingsocietyapp\\housingsocietyapi\\housingsocietyapi.datamodel\\tables\\society_ms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A390C128-1880-4C8D-A637-032333B436E0}|HousingSocietyApi.DataModel\\HousingSocietyApi.DataModel.csproj|solutionrelative:housingsocietyapi.datamodel\\tables\\society_ms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA21E1C-833C-4D50-B530-C01FB306D252}|HousingSocietyApi\\HousingSocietyApi.csproj|d:\\housingsocietyapp\\housingsocietyapi\\housingsocietyapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2CA21E1C-833C-4D50-B530-C01FB306D252}|HousingSocietyApi\\HousingSocietyApi.csproj|solutionrelative:housingsocietyapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\HousingSocietyApp\\HousingSocietyApi\\HousingSocietyApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "HousingSocietyApi\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\HousingSocietyApp\\HousingSocietyApi\\HousingSocietyApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "HousingSocietyApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-11T15:27:46.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "install_mst_DTO.cs",
+              "DocumentMoniker": "D:\\HousingSocietyApp\\HousingSocietyApi\\HousingSocietyApi.Core\\DTO\\install_mst_DTO.cs",
+              "RelativeDocumentMoniker": "HousingSocietyApi.Core\\DTO\\install_mst_DTO.cs",
+              "ToolTip": "D:\\HousingSocietyApp\\HousingSocietyApi\\HousingSocietyApi.Core\\DTO\\install_mst_DTO.cs",
+              "RelativeToolTip": "HousingSocietyApi.Core\\DTO\\install_mst_DTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T09:22:48.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "account_grp_mst_DTO.cs",
+              "DocumentMoniker": "D:\\HousingSocietyApp\\HousingSocietyApi\\HousingSocietyApi.Core\\DTO\\account_grp_mst_DTO.cs",
+              "RelativeDocumentMoniker": "HousingSocietyApi.Core\\DTO\\account_grp_mst_DTO.cs",
+              "ToolTip": "D:\\HousingSocietyApp\\HousingSocietyApi\\HousingSocietyApi.Core\\DTO\\account_grp_mst_DTO.cs",
+              "RelativeToolTip": "HousingSocietyApi.Core\\DTO\\account_grp_mst_DTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T09:08:45.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICommonInterface.cs",
+              "DocumentMoniker": "D:\\HousingSocietyApp\\HousingSocietyApi\\HousingSocietyApi.Core\\Interface\\ICommonInterface.cs",
+              "RelativeDocumentMoniker": "HousingSocietyApi.Core\\Interface\\ICommonInterface.cs",
+              "ToolTip": "D:\\HousingSocietyApp\\HousingSocietyApi\\HousingSocietyApi.Core\\Interface\\ICommonInterface.cs",
+              "RelativeToolTip": "HousingSocietyApi.Core\\Interface\\ICommonInterface.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T08:59:30.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommonController.cs",
+              "DocumentMoniker": "D:\\HousingSocietyApp\\HousingSocietyApi\\HousingSocietyApi\\Controllers\\CommonController.cs",
+              "RelativeDocumentMoniker": "HousingSocietyApi\\Controllers\\CommonController.cs",
+              "ToolTip": "D:\\HousingSocietyApp\\HousingSocietyApi\\HousingSocietyApi\\Controllers\\CommonController.cs",
+              "RelativeToolTip": "HousingSocietyApi\\Controllers\\CommonController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T08:46:22.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommonService.cs",
+              "DocumentMoniker": "D:\\HousingSocietyApp\\HousingSocietyApi\\HousingSocietyApi.Infrastructure\\Services\\CommonService.cs",
+              "RelativeDocumentMoniker": "HousingSocietyApi.Infrastructure\\Services\\CommonService.cs",
+              "ToolTip": "D:\\HousingSocietyApp\\HousingSocietyApi\\HousingSocietyApi.Infrastructure\\Services\\CommonService.cs",
+              "RelativeToolTip": "HousingSocietyApi.Infrastructure\\Services\\CommonService.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T06:50:45.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "society_ms.cs",
+              "DocumentMoniker": "D:\\HousingSocietyApp\\HousingSocietyApi\\HousingSocietyApi.DataModel\\Tables\\society_ms.cs",
+              "RelativeDocumentMoniker": "HousingSocietyApi.DataModel\\Tables\\society_ms.cs",
+              "ToolTip": "D:\\HousingSocietyApp\\HousingSocietyApi\\HousingSocietyApi.DataModel\\Tables\\society_ms.cs",
+              "RelativeToolTip": "HousingSocietyApi.DataModel\\Tables\\society_ms.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T06:36:20.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "install_mst.cs",
+              "DocumentMoniker": "D:\\HousingSocietyApp\\HousingSocietyApi\\HousingSocietyApi.DataModel\\Tables\\install_mst.cs",
+              "RelativeDocumentMoniker": "HousingSocietyApi.DataModel\\Tables\\install_mst.cs",
+              "ToolTip": "D:\\HousingSocietyApp\\HousingSocietyApi\\HousingSocietyApi.DataModel\\Tables\\install_mst.cs",
+              "RelativeToolTip": "HousingSocietyApi.DataModel\\Tables\\install_mst.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAC8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T06:29:33.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "account_grp_mst.cs",
+              "DocumentMoniker": "D:\\HousingSocietyApp\\HousingSocietyApi\\HousingSocietyApi.DataModel\\Tables\\account_grp_mst.cs",
+              "RelativeDocumentMoniker": "HousingSocietyApi.DataModel\\Tables\\account_grp_mst.cs",
+              "ToolTip": "D:\\HousingSocietyApp\\HousingSocietyApi\\HousingSocietyApi.DataModel\\Tables\\account_grp_mst.cs",
+              "RelativeToolTip": "HousingSocietyApi.DataModel\\Tables\\account_grp_mst.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T06:17:46.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\HousingSocietyApp\\HousingSocietyApi\\HousingSocietyApi.Infrastructure\\Db\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "HousingSocietyApi.Infrastructure\\Db\\AppDbContext.cs",
+              "ToolTip": "D:\\HousingSocietyApp\\HousingSocietyApi\\HousingSocietyApi.Infrastructure\\Db\\AppDbContext.cs",
+              "RelativeToolTip": "HousingSocietyApi.Infrastructure\\Db\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T06:03:40.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\HousingSocietyApp\\HousingSocietyApi\\HousingSocietyApi\\appsettings.json",
+              "RelativeDocumentMoniker": "HousingSocietyApi\\appsettings.json",
+              "ToolTip": "D:\\HousingSocietyApp\\HousingSocietyApi\\HousingSocietyApi\\appsettings.json",
+              "RelativeToolTip": "HousingSocietyApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-10T06:02:14.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HousingSocietyApp\\HousingSocietyApi\\HousingSocietyApi\\Program.cs",
+              "RelativeDocumentMoniker": "HousingSocietyApi\\Program.cs",
+              "ToolTip": "D:\\HousingSocietyApp\\HousingSocietyApi\\HousingSocietyApi\\Program.cs",
+              "RelativeToolTip": "HousingSocietyApi\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAhwDkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T06:00:17.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\HousingSocietyApp\\HousingSocietyApi\\HousingSocietyApi\\Mapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "HousingSocietyApi\\Mapper\\MappingProfile.cs",
+              "ToolTip": "D:\\HousingSocietyApp\\HousingSocietyApi\\HousingSocietyApi\\Mapper\\MappingProfile.cs",
+              "RelativeToolTip": "HousingSocietyApi\\Mapper\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T05:59:13.566Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 173,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

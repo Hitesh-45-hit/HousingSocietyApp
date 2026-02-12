@@ -1,0 +1,17 @@
+D:\HousingSocietyApp\HousingSocietyApi\HousingSocietyApi.Infrastructure\bin\Debug\net8.0\HousingSocietyApi.Infrastructure.deps.json
+D:\HousingSocietyApp\HousingSocietyApi\HousingSocietyApi.Infrastructure\bin\Debug\net8.0\HousingSocietyApi.Infrastructure.dll
+D:\HousingSocietyApp\HousingSocietyApi\HousingSocietyApi.Infrastructure\bin\Debug\net8.0\HousingSocietyApi.Infrastructure.pdb
+D:\HousingSocietyApp\HousingSocietyApi\HousingSocietyApi.Infrastructure\obj\Debug\net8.0\HousingSocietyApi.Infrastructure.csproj.AssemblyReference.cache
+D:\HousingSocietyApp\HousingSocietyApi\HousingSocietyApi.Infrastructure\obj\Debug\net8.0\HousingSocietyApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\HousingSocietyApp\HousingSocietyApi\HousingSocietyApi.Infrastructure\obj\Debug\net8.0\HousingSocietyApi.Infrastructure.AssemblyInfoInputs.cache
+D:\HousingSocietyApp\HousingSocietyApi\HousingSocietyApi.Infrastructure\obj\Debug\net8.0\HousingSocietyApi.Infrastructure.AssemblyInfo.cs
+D:\HousingSocietyApp\HousingSocietyApi\HousingSocietyApi.Infrastructure\obj\Debug\net8.0\HousingSocietyApi.Infrastructure.csproj.CoreCompileInputs.cache
+D:\HousingSocietyApp\HousingSocietyApi\HousingSocietyApi.Infrastructure\obj\Debug\net8.0\HousingSocietyApi.Infrastructure.dll
+D:\HousingSocietyApp\HousingSocietyApi\HousingSocietyApi.Infrastructure\obj\Debug\net8.0\refint\HousingSocietyApi.Infrastructure.dll
+D:\HousingSocietyApp\HousingSocietyApi\HousingSocietyApi.Infrastructure\obj\Debug\net8.0\HousingSocietyApi.Infrastructure.pdb
+D:\HousingSocietyApp\HousingSocietyApi\HousingSocietyApi.Infrastructure\obj\Debug\net8.0\ref\HousingSocietyApi.Infrastructure.dll
+D:\HousingSocietyApp\HousingSocietyApi\HousingSocietyApi.Infrastructure\bin\Debug\net8.0\HousingSocietyApi.DataModel.dll
+D:\HousingSocietyApp\HousingSocietyApi\HousingSocietyApi.Infrastructure\bin\Debug\net8.0\HousingSocietyApi.DataModel.pdb
+D:\HousingSocietyApp\HousingSocietyApi\HousingSocietyApi.Infrastructure\obj\Debug\net8.0\HousingS.DDCCB31B.Up2Date
+D:\HousingSocietyApp\HousingSocietyApi\HousingSocietyApi.Infrastructure\bin\Debug\net8.0\HousingSocietyApi.Core.dll
+D:\HousingSocietyApp\HousingSocietyApi\HousingSocietyApi.Infrastructure\bin\Debug\net8.0\HousingSocietyApi.Core.pdb
