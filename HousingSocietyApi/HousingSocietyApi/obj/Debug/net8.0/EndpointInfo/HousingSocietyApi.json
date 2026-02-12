@@ -1,0 +1,155 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "HousingSocietyApi",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Common/AddAccountGroup": {
+      "post": {
+        "tags": [
+          "Common"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/account_grp_mst_DTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/account_grp_mst_DTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/account_grp_mst_DTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Common/AddinstallData": {
+      "post": {
+        "tags": [
+          "Common"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/install_mst_DTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/install_mst_DTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/install_mst_DTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "account_grp_mst_DTO": {
+        "type": "object",
+        "properties": {
+          "agm_id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "account_head": {
+            "type": "string",
+            "nullable": true
+          },
+          "account_group_name": {
+            "type": "string",
+            "nullable": true
+          },
+          "account_group_desc": {
+            "type": "string",
+            "nullable": true
+          },
+          "printing_sr": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "install_mst_DTO": {
+        "type": "object",
+        "properties": {
+          "i_id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "i_name": {
+            "type": "string",
+            "nullable": true
+          },
+          "i_addr1": {
+            "type": "string",
+            "nullable": true
+          },
+          "i_addr2": {
+            "type": "string",
+            "nullable": true
+          },
+          "i_city": {
+            "type": "string",
+            "nullable": true
+          },
+          "i_dist": {
+            "type": "string",
+            "nullable": true
+          },
+          "i_pin": {
+            "type": "string",
+            "nullable": true
+          },
+          "i_contact_no_1": {
+            "type": "string",
+            "nullable": true
+          },
+          "i_contact_no_2": {
+            "type": "string",
+            "nullable": true
+          },
+          "i_email": {
+            "type": "string",
+            "nullable": true
+          },
+          "i_type": {
+            "type": "string",
+            "nullable": true
+          },
+          "i_region": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

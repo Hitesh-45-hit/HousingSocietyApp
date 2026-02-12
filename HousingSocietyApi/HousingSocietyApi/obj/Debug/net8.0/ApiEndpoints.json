@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "HousingSocietyApi.Controllers.CommonController",
+    "Method": "AddLeadGeneration",
+    "RelativePath": "api/Common/AddAccountGroup",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "account_Grp_Mst_DTO",
+        "Type": "HousingSocietyApi.Core.DTO.account_grp_mst_DTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HousingSocietyApi.Controllers.CommonController",
+    "Method": "AddinstallData",
+    "RelativePath": "api/Common/AddinstallData",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "install_Mst_",
+        "Type": "HousingSocietyApi.Core.DTO.install_mst_DTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
